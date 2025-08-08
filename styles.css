@@ -229,7 +229,7 @@
     .responsive-table td {
       border: none;
       position: relative;
-      padding-left: 20%;
+      padding-left: 10%;
       white-space: normal;
     }
 
@@ -238,7 +238,7 @@
       position: absolute;
       top: 12px;
       left: 12px;
-      width: 15%; /* пропорционально */
+      width: 5%; /* пропорционально */
       padding-right: 10px;
       white-space: nowrap;
       font-weight: bold;
